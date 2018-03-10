@@ -9,7 +9,11 @@ defmodule Haikunator.Nouns do
       haze mountain night pond darkness snowflake silence
       sound sky shape surf thunder violet water wildflower
       wave water resonance sun wood dream cherry tree fog
-      frost voice paper frog smoke star
+      frost voice paper frog smoke star women men children
+      teeth feet people leaves mice geese halves knives wives
+      lives elves loaves potatoes tomatoes cacti foci fungi
+      nuclei syllabuses analyses diagnoses oases theses crises
+      phenomena criteria data
     )
   end
 end
